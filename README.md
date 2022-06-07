@@ -1,11 +1,11 @@
-# kinetic-typography-1
-실습을 통해 Creative Coding Tutorial을 학습하며 만들어본 첫번째 프로젝트입니다.
+# kinetic-typography-7
+실습을 통해 Creative Coding Tutorial을 학습하며 만들어본 일곱번째 프로젝트입니다.
 
-[페이지 바로가기](https://mooyeon-choi.github.io/kinetic-typography-1/)
+[페이지 바로가기](https://mooyeon-choi.github.io/kinetic-typography-7/)
 
 ## About The Project
 
-[![Example](./images/kinetic-typography-1-example.gif)](https://mooyeon-choi.github.io/kinetic-typography-1/)
+[![Example](./images/kinetic-typography-7-example.gif)](https://mooyeon-choi.github.io/kinetic-typography-7/)
 
 * 마우스로 글자를 흐트러뜨릴 수 있습니다.
 * 흐트러진 글자는 일정시간이 지나면 원래 모양으로 돌아옵니다.

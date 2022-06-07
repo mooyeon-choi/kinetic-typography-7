@@ -7,6 +7,7 @@
 
 [![Example](./images/kinetic-typography-7-example.gif)](https://mooyeon-choi.github.io/kinetic-typography-7/)
 
+* 일정 시간이 지나면 글자가 수축하여 다른 글자로 바뀝니다.
 * 마우스로 글자를 흐트러뜨릴 수 있습니다.
 * 흐트러진 글자는 일정시간이 지나면 원래 모양으로 돌아옵니다.
 
